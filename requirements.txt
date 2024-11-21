@@ -20,7 +20,7 @@ markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 mdurl==0.1.2
 narwhals==1.13.5
-numpy==2.1.3
+numpy==1.24.3  # Fixed numpy version for compatibility
 packaging==24.2
 protobuf==5.28.3
 pyarrow==18.0.0
