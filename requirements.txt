@@ -9,7 +9,6 @@ gitdb==4.0.11
 streamlit
 opencv-python-headless
 Pillow
-sqlite3
 pandas
 qrcode
 GitPython==3.1.43
@@ -41,7 +40,6 @@ rich==13.9.4
 rpds-py==0.21.0
 six==1.16.0
 smmap==5.0.1
-streamlit==1.40.1
 tenacity==9.0.0
 toml==0.10.2
 tornado==6.4.1
@@ -49,3 +47,13 @@ typing_extensions==4.12.2
 tzdata==2024.2
 urllib3==2.2.3
 watchdog==6.0.0
+streamlit==1.24.0
+opencv-python-headless==4.7.0.72
+Pillow==11.0.0
+pandas==1.5.0
+qrcode==7.3.1
+streamlit==1.40.1
+opencv-python-headless==4.7.0.72
+Pillow==11.0.0
+pandas==1.5.0
+qrcode==7.3.1
